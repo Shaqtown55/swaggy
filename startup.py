@@ -1,3 +1,3 @@
 #Deploying python
-python('Hello World')
+print('Hello World')
 echo "Hello World"
